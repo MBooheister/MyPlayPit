@@ -1,0 +1,21 @@
+{
+  "name": "rocket-shop",
+  "version": "1.0.0",
+  "description": "A crowd-sourced subscription tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "node_modules/mocha/bin/mocha"
+  },
+  "author": "MBooheister",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^3.0.2",
+    "sinon": "^1.17.5"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "moment": "^2.15.0"
+  }
+}
