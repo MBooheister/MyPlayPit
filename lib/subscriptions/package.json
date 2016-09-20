@@ -9,6 +9,7 @@
   "author": "Michael Booheister",
   "license": "ISC",
   "dependencies": {
+    "async": "^2.0.1",
     "moment": "^2.15.0",
     "underscore": "^1.8.3"
   },
