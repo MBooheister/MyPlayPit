@@ -10,6 +10,9 @@
   "license": "ISC",
   "dependencies": {
     "moment": "^2.15.0",
+    "nedb": "^1.8.0",
+    "nock": "^8.0.0",
+    "stripe": "^4.11.0",
     "underscore": "^1.8.3"
   },
   "devDependencies": {
